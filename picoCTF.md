@@ -1,3 +1,6 @@
+放到github備份
+原本在Hackmd上: https://hackmd.io/-KQeDuzrQMOcFNhwU_5eKA?both#General-Skills
+
 # 從零開始的 picoCTF
 [TOC]
 
