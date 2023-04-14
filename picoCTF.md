@@ -10,10 +10,10 @@
 讚數沒有超過50% 先不看，有毒QQ (2023/04/07)
 
 ### General Skills
-- [chrono-100pt](/Aq1KwKm8ScOjhK6tr_AGRQ?both)
-- [money-ware-100pt](/Rj_XJPKSR4GIureej8jofQ?both)
-- [Permissions-100pt](/dGmg8Vi0TJ262w-k8jUbbA?both)
-- [repetitions-100pt](/4kq0tqzFTg2U2d1rOQUqxw?both)
+- [chrono-100pt](https://hackmd.io/Aq1KwKm8ScOjhK6tr_AGRQ?both)
+- [money-ware-100pt](https://hackmd.io/Rj_XJPKSR4GIureej8jofQ?both)
+- [Permissions-100pt](https://hackmd.io/dGmg8Vi0TJ262w-k8jUbbA?both)
+- [repetitions-100pt](https://hackmd.io/4kq0tqzFTg2U2d1rOQUqxw?both)
 
 
 ### Web Exploitation
